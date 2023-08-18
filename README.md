@@ -1,1 +1,1 @@
-# stock-price-prediction-using-stacked-LSTM-RNN
+# Stock-MArket-Forecasting
